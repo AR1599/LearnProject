@@ -11,4 +11,4 @@ Kalian bisa Mengakses lewat link Berikut ini:
       1. Web-1: Tidak Tersedia, karena entah kenapa nggak bisa online
       2. Web-2: Coming Soon Cuy!
 
-Atau kalian juga bisa Melihat langsung Screenshot dari Website nya di " __Directory: Screenshot__ "
+Atau kalian juga bisa Melihat langsung Screenshot dari Website nya di Directory: Screenshot
