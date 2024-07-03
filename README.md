@@ -2,4 +2,11 @@
 
 Di Repositori ini, aku mau menunjukkan kepada kalian koleksi website yang aku buat selama belajar ngoding dari 0. Di repositori ini, aku belajar bagaimana cara membuat website dari Tutorial Youtube dengan menggunakan HTML, CSS, dan JS
 
-## adsfadsf
+
+## Cara Mengakses/Melihat nya Gimana?
+
+Kalian bisa Mengakses lewat link Berikut ini:
+      1. 
+      2.
+
+Atau kalian juga bisa Melihat Screenshot dari Website nya di Directory: Screenshot
