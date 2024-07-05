@@ -12,3 +12,9 @@ Kalian bisa Mengakses lewat link Berikut ini:
       2. Web-2: Coming Soon Cuy!
 
 Atau kalian juga bisa Melihat langsung Screenshot dari Website nya di Directory: Screenshot
+
+
+
+## Thanks for support!
+
+Aku berterima kasih kepada Bang Dea Afrizal dan Pak Sandhika Galih yang telah membantu dalam proses belajar ngoding :)
