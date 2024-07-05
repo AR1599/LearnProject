@@ -17,4 +17,4 @@ Atau kalian juga bisa Melihat langsung Screenshot dari Website nya di Directory:
 
 ## Thanks for support!
 
-Aku berterima kasih kepada Bang Dea Afrizal dan Pak Sandhika Galih yang telah membantu dalam proses belajar ngoding :)
+Aku berterima kasih kepada Bang Dea Afrizal dan Pak Sandhika Galih yang telah membantu dalam proses belajar ngoding saya:)
