@@ -6,5 +6,5 @@ Ini adalah Website Portofolio sederhana pertama yang telah aku buat pada saat be
 
 ## Cara Melihat/Akses nya gimana?
 
-Kalian bisa Melihat foto screenshot website nya di bagian folder: Screenshot.
-Untuk Link Website nya tidak tersedia, karena entah kenapa nggak bisa online :P
+Link web-1: https://web-1-nu.vercel.app/
+Atau juga bisa melihat langsung foto screenshot web nya di direktori: screenshot
